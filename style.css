@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+body {
+    width: 500px;
+    margin: 0 auto;
+}
+
 ul {
     list-style: none;
 }
@@ -15,6 +20,7 @@ li {
 h1 {
     color: #f94b07;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 h2 {
